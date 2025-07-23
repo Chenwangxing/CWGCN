@@ -1,8 +1,6 @@
 import math
 import torch
 import numpy as np
-import torch.distributions.multivariate_normal as torchdist
-from pyDOE import lhs
 
 def box_muller_transform(x: torch.FloatTensor):
     r"""Box-Muller transform"""
