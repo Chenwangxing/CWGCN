@@ -14,7 +14,7 @@ test.py: for testing the code
 
 utils.py: general utils used by the code
 
-metrics.py: Measuring tools used by the code
+metrics.py: metrics tools used by the code
 
 The specific code of the training part will be released after the paper is officially published!
 
