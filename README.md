@@ -2,7 +2,6 @@
 
 The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
 
-The training code will be made public after the paper is indexed by SCI. See your later!
 
 ## Introduction
 Existing GNN-based methods typically model pedestrian social interactions at a global scale, overlooking multi-scale interactions, as shown in Fig. 1(a). The wavelet transform is utilized as a multi-scale modeling method in image processing. While WTGCN integrates the wavelet transform with graph convolution, it does not explore cascaded wavelet transforms. Pedestrian social interactions can be viewed as spatially multi-resolution signals and cascaded wavelet transforms can be implemented to analyze these relationships at different resolutions, thus enabling the capture of pedestrian social relationships at different spatial scales, as shown in Fig. 1(b). We combine cascaded wavelet transform and graph convolution to achieve modeling of multi-scale social interactions.
