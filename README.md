@@ -1,6 +1,6 @@
 # CWGCN: Cascaded Wavelet Graph Convolution Network for Pedestrian Trajectory Prediction
 
-The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
+The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/CWGCN and evaluate the models performance run:  test.py
 
 
 ## Introduction
