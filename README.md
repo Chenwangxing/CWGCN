@@ -24,6 +24,8 @@ dataset folder: contains ETH, UCY and SDD datasets
 
 model.py: the code of CHGNN
 
+train.py: for training the code
+
 test.py: for testing the code
 
 utils.py: general utils used by the code
@@ -32,8 +34,14 @@ metrics.py: metrics tools used by the code
 
 The specific code of the training part will be released after the paper is officially published!
 
+
 ## Model Evaluation
 You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
 
+
 ## Acknowledgement
 Some codes are borrowed from SGCN, IMGCN, and WTConv. We gratefully acknowledge the authors for posting their code.
+
+
+## Cite this article:
+Chen W, Sang H, Zhao Z. CWGCN: Cascaded Wavelet Graph Convolution Network for pedestrian trajectory prediction[J]. Computers and Electrical Engineering, 2025, 127: 110609.
